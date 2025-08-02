@@ -1,6 +1,6 @@
 # 🌟 MondraDev - Portfolio
 
-¡Hola! Soy **MondraDev**, estudiante de Ingeniería en Software y Redes, apasionado por el desarrollo web, móvil, videojuegos y la tecnología en general.  
+¡Hola! Soy **Jose Mondragón**, estudiante de Ingeniería en Software y Redes, apasionado por el desarrollo web, móvil, videojuegos y la tecnología en general.  
 Este repositorio es el índice central de mis proyectos en GitHub, donde documentaré mi progreso, aprendizaje y pasión por crear soluciones innovadoras.
 
 Mi objetivo es construir un portafolio auténtico que refleje mi evolución como desarrollador, desde proyectos iniciales hasta soluciones más complejas, mientras exploro nuevas tecnologías y perfecciono mis habilidades.
